@@ -111,6 +111,10 @@ $theme-colors: map-merge(
 		$theme-colors
 );
 
+// If you want to use new color schemes,
+// add the code that is higher in to the file _variables.scss from the bootstrap distribution
+
+
 // Blockqote
 @each $title, $color in $theme-colors {
 	blockquote.quote-#{$title} {

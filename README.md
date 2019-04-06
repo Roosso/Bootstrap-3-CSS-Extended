@@ -10,9 +10,9 @@ This is a small code, but useful.
 add 3 new color theme: white, gray, black
 
 Example
-` class="text-gray"`
-` class="bg-gray"`
-` class="badge badge-white"`
+* ` class="text-gray"`
+* ` class="bg-gray"`
+* ` class="badge badge-white"`
 ---
 Add border extra width
 
@@ -20,13 +20,13 @@ Add border extra width
 * border-3 - border width = 3px
 
 Example
-` class="border border-2 border-dark"`
-` class="border-bottom border-3 border-warning"`
+* ` class="border border-2 border-dark"`
+* ` class="border-bottom border-3 border-warning"`
 ---
 Add new blockquote style
 
 Example
-` <blockquote class="quote-info"><h1>Test Header</h1> Text</blockquote`
+* `<blockquote class="quote-info"><h1>Test Header</h1> Text</blockquote`
 
 
 ## See my project

@@ -1,3 +1,11 @@
+/*
+ * @copyright alexandr Belov aka alex Roosso. All rights reserved.
+ * @author    alex Roosso <info@roocms.com>
+ * @license   http://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * You should have received a copy of the GNU General Public License v3
+ * along with this program.  If not, see http://www.gnu.org/licenses/
+ */
 blockquote.quote-white {
   border-left: 0.2rem solid #fff;
   background-color: rgba(248, 249, 250, 0.95);
@@ -98,48 +106,8 @@ blockquote > p:last-child {
   border-width: 3px;
 }
 
-.bg-white {
+[class^=bg-] {
   padding: 1rem;
 }
 
-.bg-gray {
-  padding: 1rem;
-}
-
-.bg-black {
-  padding: 1rem;
-}
-
-.bg-primary {
-  padding: 1rem;
-}
-
-.bg-secondary {
-  padding: 1rem;
-}
-
-.bg-success {
-  padding: 1rem;
-}
-
-.bg-info {
-  padding: 1rem;
-}
-
-.bg-warning {
-  padding: 1rem;
-}
-
-.bg-danger {
-  padding: 1rem;
-}
-
-.bg-light {
-  padding: 1rem;
-}
-
-.bg-dark {
-  padding: 1rem;
-}
-
-/*# sourceMappingURL=bs4-addon.css.map */
+/*# sourceMappingURL=bs4extend.css.map */

@@ -28,6 +28,7 @@ Add new blockquote style
 Example
 * `<blockquote class="quote-info"><h1>Test Header</h1> Text</blockquote`
 
+Examples: https://codepen.io/Roosso/pen/GLyLGq
 
 ## See my project
 https://github.com/RooCMS/RooCMS
